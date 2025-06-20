@@ -1,0 +1,13 @@
+1. make bare bone of url shortner i.e with out user auth and database -1
+1.1. add database -1
+    i. Feature -1
+        -post and get to original url -1
+    ii. don't make new short url if a provided url is already shortened -1
+    iii. in increment the clicks -1
+    iv. delete the expired urls from database -1
+        - this is done when a url is accessed -0
+        - other method would be to clean the database perodically looking for expired url -1
+
+2. File share service
+
+# add password for files for logged users files
